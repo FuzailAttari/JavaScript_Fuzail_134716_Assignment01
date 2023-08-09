@@ -91,15 +91,15 @@
 
 
 
-            // document.write (" <h1> Table Of 4 </h1>")
-            // var n1 = 4 ;
-            // document.write ( " </br> 4 x 1 = " + n1 * 1 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 2 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 3 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 4 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 5 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 6 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 7 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 8 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 9 )
-            // document.write ( " </br> 4 x 1 = " + n1 * 10 )
+            document.write (" <h1> Table Of 4 </h1>")
+            var n1 = 4 ;
+            document.write ( " </br> 4 x 1 = " + n1 * 1 )
+            document.write ( " </br> 4 x 1 = " + n1 * 2 )
+            document.write ( " </br> 4 x 1 = " + n1 * 3 )
+            document.write ( " </br> 4 x 1 = " + n1 * 4 )
+            document.write ( " </br> 4 x 1 = " + n1 * 5 )
+            document.write ( " </br> 4 x 1 = " + n1 * 6 )
+            document.write ( " </br> 4 x 1 = " + n1 * 7 )
+            document.write ( " </br> 4 x 1 = " + n1 * 8 )
+            document.write ( " </br> 4 x 1 = " + n1 * 9 )
+            document.write ( " </br> 4 x 1 = " + n1 * 10 )
